@@ -297,4 +297,10 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+  .mybutt{
+    text-decoration: none;
+    background-color: #77dde2;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
 }
